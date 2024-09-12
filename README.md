@@ -36,11 +36,6 @@ Whether you’re a renter searching for your next home or a landlord looking to 
 - **Enhanced Social Features**: Property "Moments" for renters to share updates or rental experiences.
 - **Roommate Matching**: Find compatible roommates based on preferences and shared housing requirements.
 - **Advanced Payment Plans**: Offer installment options for large rental payments.
-
-## 🤝 Contributing
-
-We welcome contributions! If you're interested in improving **KeyHouse**, feel free to open a pull request or submit an issue.
-
 ---
 
 ## 📄 License
